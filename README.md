@@ -88,10 +88,14 @@ Create a playable third-person character in Unreal Engine that can move and run,
 * Update HUD: Call `UpdateHealthDisplay`
 
 ## Output:
-<img width="516" height="215" alt="Screenshot 2025-11-13 132833" src="https://github.com/user-attachments/assets/18cea467-7cfa-486a-9383-af7393d665ac" />
-<img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/dfbcdcee-830a-4fce-a8c9-9f3b3c44bcd0" />
-<img width="1920" height="1200" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/bc79e6c7-58ed-4bb6-9a15-6547fd4babcf" />
-<img width="1182" height="572" alt="Screenshot 2025-11-13 134127" src="https://github.com/user-attachments/assets/8eb0b872-8f46-4c87-bb16-f130fe48f3d3" />
+
+<img width="516" height="215" alt="op1" src="https://github.com/user-attachments/assets/5c6e4a3a-96c3-417e-a0f6-25b811b00d4d" />
+
+<img width="1920" height="1200" alt="op2" src="https://github.com/user-attachments/assets/cceb1445-dc4a-4684-8612-4f3108ec197f" />
+
+<img width="1920" height="1200" alt="op3" src="https://github.com/user-attachments/assets/6ef5500d-22c7-418a-8503-36f6a820fcb2" />
+
+<img width="1182" height="572" alt="op4" src="https://github.com/user-attachments/assets/0f31a53a-274f-4ba4-8ff4-7a818b6c2c8b" />
 
 ## RESULT
 The AI character successfully roams within the defined NavMesh area, choosing random destinations at intervals using the Behavior Tree logic.
